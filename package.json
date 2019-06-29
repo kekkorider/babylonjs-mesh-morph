@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@babylonjs/core": "^4.0.3",
+    "@babylonjs/loaders": "^4.0.3"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "parcel-plugin-static-files-copy": "^2.1.2"
+  }
+}

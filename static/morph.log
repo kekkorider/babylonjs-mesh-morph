@@ -1,0 +1,70 @@
+Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  /Users/francesco/Documents/www/playground/babylonjs/static/fra/
+	Python World class constructor completed
+	processing begun of mesh:  Test Sphere
+		processing begun of Standard material:  Material.006
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  540
+	processing begun of mesh:  UV Cube
+		processing begun of Standard material:  UV Cube Material
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Shape Keys:
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  UV Sphere
+		processing begun of Standard material:  UV Sphere Material
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Shape Keys:
+	processing begun of mesh:  UV Cone
+		processing begun of Standard material:  UV Cone Material
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Shape Keys:
+	processing begun of mesh:  Main Cube
+		processing begun of Standard material:  Main Cube Material
+		num positions      :  58
+		num normals        :  58
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  336
+		Shape Keys:
+	processing begun of mesh:  Test Sphere 01
+		processing begun of Standard material:  Material.007
+		num positions      :  92
+		num normals        :  92
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  540
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0536 secs
