@@ -1,3 +1,5 @@
 # How to run
 
-```parcel index.html```
+```console
+$ parcel index.html
+```
