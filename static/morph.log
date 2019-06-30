@@ -10,8 +10,8 @@ Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
 		Mat Weight Precision:  2
 		texture directory   :  /Users/francesco/Documents/www/playground/babylon-mesh-morph/static/
 	Python World class constructor completed
-	processing begun of mesh:  Test Sphere
-		processing begun of Standard material:  Material.006
+	processing begun of mesh:  Sphere Default
+		processing begun of Standard material:  SphereDefaul Matedial
 		num positions      :  92
 		num normals        :  92
 		num uvs            :  0
@@ -19,8 +19,8 @@ Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
 		num colors         :  0
 		num indices        :  540
 	processing begun of camera (UniversalCamera):  Camera
-	processing begun of mesh:  Test Sphere 01
-		processing begun of Standard material:  Material.007
+	processing begun of mesh:  Sphere Morph
+		processing begun of Standard material:  SphereDefaul Matedial.001
 		num positions      :  92
 		num normals        :  92
 		num uvs            :  0
@@ -31,4 +31,4 @@ Exporter version: 5.6.4, Blender version: 2.79 (sub 0)
 ========= Writing of scene file started =========
 ========= Writing of scene file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 0.0356 secs
+elapsed time:  0 min, 0.02 secs

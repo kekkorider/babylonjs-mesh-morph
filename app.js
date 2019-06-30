@@ -30,13 +30,13 @@ pointLight00.diffuse = new Color3(0.1, 0.5, 0.4)
 const pointLight01 = new PointLight('pointLight01', new Vector3(3, 3, -3), scene)
 pointLight01.diffuse = new Color3(0.6, 0.1, 0.3)
 
-SceneLoader.ImportMeshAsync(['Test Sphere', 'Test Sphere 01'], '/', 'morph.babylon', scene).then(() => {
+SceneLoader.ImportMeshAsync(['Sphere Default', 'Sphere Morph'], '/', 'morph.babylon', scene).then(() => {
 
-  const test = scene.getMeshByName('Test Sphere')
+  const test = scene.getMeshByName('Sphere Default')
   test.convertToFlatShadedMesh()
   test.position = Vector3.Zero()
 
-  const test01 = scene.getMeshByName('Test Sphere 01')
+  const test01 = scene.getMeshByName('Sphere Morph')
   test01.convertToFlatShadedMesh()
   test01.setEnabled(false)
 
